@@ -59,30 +59,24 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209953989-93d355f4-7913-4c81-8aa0-b6d4eca237b0.png">
 
-<div align="right">
-
-![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)
-   
-</div>
 
 
 # Stats
 
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
+| ![Giuseppe Meli's github stats](https://github-readme-stats.vercel.app/api?username=GiuseppeMeliDevelhope&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Giuseppe Meli's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeMeliDevelhope&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pranshu05&include_all_commits=true&count_private=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeMeliDevelhope&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=GiuseppeMeliDevelhope&include_all_commits=true&count_private=true) |
 
 ---
 
 <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
 
 <div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
+   <img src="https://visitcount.itsvg.in/api?id=GiuseppeMeliDevelhope&icon=0&color=0">
 </div>
 
 ------
 
-Credit: [pranshu05](https://github.com/pranshu05)
-Last Edited on: 02/01/2023
+Credit: [GiuseppeMeliDevelhope](https://github.com/GiuseppeMeliDevelhope)
+Last Edited on: 24/02/2023
