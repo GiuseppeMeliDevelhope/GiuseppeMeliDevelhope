@@ -49,14 +49,6 @@
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![REDUX](https://img.shields.io/badge/redux-5C2D91?style=for-the-badge&logo=redux&logoColor=white) ![WEBPACK](https://img.shields.io/badge/webpack-%2331A8FF.svg?style=for-the-badge&logo=webpack&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 
-# 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [My 15 Days Blender Progression](https://www.youtube.com/watch?v=N3KLYw2gjNs)
-- [Pendulum Waves | Blender](https://www.youtube.com/watch?v=Z7iNiIMFzkM)
-- [First 3D Animation - Update | Blender | Learning Blender](https://www.youtube.com/watch?v=JnQH41gab1U)
-- [First 3D Animation | Blender | Learning Blender](https://www.youtube.com/watch?v=5clT9DouI-4)
-- [First game | Devlog #1 |  Made at age of 14](https://www.youtube.com/watch?v=U8Iv8Pjg8Mo)
-<!-- YOUTUBE:END -->
 
 ## 📊 Last week so far
 <!--START_SECTION:waka-->
