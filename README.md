@@ -21,6 +21,8 @@
 
 - 🌱 I’m currently learning **Node.js, soon Typescript**
 
+- 📚 Looking forward to learn **React Native**
+
 - 👯 I’m looking for a workplace you can checkout my profile **www.linkedin.com/in/giuseppemeli1**
 
 - 👨‍💻 All of my projects are available at https://github.com/GiuseppeMeliDevelhope
