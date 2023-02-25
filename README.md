@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-38 commits
+38 pushs
 ```
 
 <!--END_SECTION:waka-->
