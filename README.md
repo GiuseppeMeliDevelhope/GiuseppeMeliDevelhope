@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently student at [Develhope](https://www.develhope.co/)
 
-- 🌱 I’m currently learning **Node.js, soon Typescript**
+- 🌱 I’m currently learning **Node.js**
 
 - 📚 Looking forward to learn **React Native**
 
@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/GiuseppeMeliDevelhope
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js**
+- 💬 Ask me about **HTML,CSS,Javascript,React.js,Typescript**
 
 - 📫 How to reach me **meligiuseppe92020@gmail.com**
 
