@@ -17,17 +17,17 @@
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png">
 
 
-- 🔭 I’m currently student at [Develhope](https://www.develhope.co/)
+- 🔭 I’m currently seraching for a job opportunity
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📚 Looking forward to learn **React Native**
+- 📚 Looking forward to learn **Python**
 
 - 👯 I’m looking for a workplace you can checkout my profile **www.linkedin.com/in/giuseppemeli1**
 
 - 👨‍💻 All of my projects are available at https://github.com/GiuseppeMeliDevelhope
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js,Typescript**
+- 💬 Ask me about **HTML,CSS,Javascript,React.js,Typescript,Node.js**
 
 - 📫 How to reach me **meligiuseppe92020@gmail.com**
 
