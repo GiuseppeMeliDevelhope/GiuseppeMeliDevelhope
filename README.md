@@ -41,7 +41,7 @@
 
 - A passionate Front and Back-end developer
 - Playing football at spare time
-- Currently learning Web Development at Develhope
+- Currently studying at home
 - Personal website [link](https://meligiuseppe92020.wixsite.com/my-site)
 - I’m currently open for an Intern or a new job opportunity, this is [my CV](https://www.linkedin.com/in/giuseppemeli1/overlay/1635518008176/single-media-viewer?type=DOCUMENT&profileId=ACoAAEEPBBoBQshUwWOzRhlZtgsH-046ACPoCqU&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsBXHDgPSSR%2B0gVNhDe2WIg%3D%3D)
 
